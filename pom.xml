@@ -11,7 +11,7 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.3.0</version>
     </parent>
-
+<!-- -->
     <!--<properties>
         <sonar.projectKey>d1-cnoe_d12-sample-spring-boot-app-k8s</sonar.projectKey>
         <sonar.organization>d1-cnoe</sonar.organization>
